@@ -1,6 +1,6 @@
 # Organizers
 
-## Executive committee
+## Instigators
 
 ::::{card-carousel} 3
 
@@ -19,124 +19,145 @@ A neuroAI research center for Québec
 Learn more {fas}`arrow-right`
 :::
 
-:::{card} Pierre Bellec
+:::{card}
 :margin: 3
 :class-body: text-center
-:link: https://github.com/pbellec
-:img-top: https://avatars.githubusercontent.com/u/1670887?v=4?s=100
+:class-header: bg-light text-center
+:link: http://www.karimjerbi.com/
+**CoCoLab**
+^^^
+```{image} images/logo_cocolab.jpg
+:height: 100
+```
+Cognitive and Computational Neuroscience Lab
++++
+Learn more {fas}`arrow-right`
 :::
 
-:::{card} Natasha J Clarke
+:::{card}
 :margin: 3
 :class-body: text-center
-:link: https://github.com/clarkenj
-:img-top: https://avatars.githubusercontent.com/u/57987005?v=4?s=100
+:class-header: bg-light text-center
+:link: https://www.cneuromod.ca/
+**Courtois-Neuromod**
+^^^
+```{image} images/logo_neuromod_small.png
+:height: 100
+```
+The Courtois project on Neuronal Modeling
++++
+Learn more {fas}`arrow-right`
 :::
 ::::
 
-## Scientific committee
 
-::::{card-carousel} 3
+## Executive committee
 
+::::{card-carousel} 4
 :::{card} Karim Jerbi
 :margin: 3
 :class-body: text-center
 :link: https://github.com/k-jerbi
-:img-top: https://avatars.githubusercontent.com/u/29810957?v=4?s=100
+:img-top: https://avatars.githubusercontent.com/u/29810957?v=4
 :::
 
-:::{card} Jean-Baptiste Poline
+:::{card} Antoine Bellemare
 :margin: 3
 :class-body: text-center
-:link: https://github.com/jbpoline
-:img-top: images/profile_jbpoline.jpg
+:link: https://github.com/antoineBellemare
+:img-top: https://avatars.githubusercontent.com/u/49297774?v=4
 :::
 
-:::{card} Shahab Bakhtiari
+:::{card} Yann Harel
 :margin: 3
 :class-body: text-center
-:link: https://github.com/ShahabBakht
-:img-top: https://avatars.githubusercontent.com/u/8434115?v=4?s=100
+:link: https://github.com/hyruuk
+:img-top: https://avatars.githubusercontent.com/u/36450529?v=4
 :::
 
-::::
-
-## Volunteers
-
-::::{card-carousel} 3
-:::{card} Kira Dolhan
-:margin: 1
-:class-body: text-center
-:link: https://www.moraeslab.com/biapt/people/
-:img-top: images/profile_kira.jpg
-:::
-
-:::{card} Peer Herholz
-:margin: 1
-:class-body: text-center
-:link: https://github.com/PeerHerholz
-:img-top: https://avatars.githubusercontent.com/u/20129524?v=4?s=100
-:::
-
-:::{card} Catherine Landry
-:margin: 1
-:class-body: text-center
-:link: https://www.linkedin.com/in/catherine-landry-b8b1a7207/
-:img-top: images/profile_catherine.jpg
-:::
-::::
-
-::::{card-carousel} 3
-:::{card} Sen Li
-:margin: 1
-:class-body: text-center
-:link: https://www.linkedin.com/in/sensprouting/?originalSubdomain=ca
-:img-top: images/profile_seni.jpg
-:::
-
-:::{card} Ayuno Nakahashi
-:margin: 1
-:class-body: text-center
-:link: https://twitter.com/ayuno_n
-:img-top: https://uss2021.github.io/assets/img/team/ayuno_nakahashi.jpg
-:::
-
-:::{card} Pravish Sainath
-:margin: 1
-:class-body: text-center
-:link: https://github.com/pravishsainath
-:img-top: https://avatars.githubusercontent.com/u/13696562?v=4?s=100
-:::
-::::
-
-::::{card-carousel} 3
-:::{card} Marie-Anick Savard
-:margin: 1
-:class-body: text-center
-:link: https://www.linkedin.com/in/marie-anick-savard-779547240/?originalSubdomain=ca
-:img-top: images/profile_marie-anick.jpg
-:::
-
-:::{card} Younes Valibeigi
-:margin: 1
-:class-body: text-center
-:link: https://www.linkedin.com/in/younes-valibeigi
-:img-top: images/profile_younes.jpg
-:::
-
-:::{card} Erjun Zhang
-:margin: 1
-:class-body: text-center
-:link: https://github.com/zhangerjun
-:img-top: images/profile_erjun.jpg
-:::
-::::
-
-::::{card-carousel} 3
-:::{card} Paul McNicoll
+:::{card} Philipp Thölke
 :margin: 3
 :class-body: text-center
-:link: https://www.linkedin.com/in/paul-m-ab7222225/
-:img-top: images/empty_profile.png
+:link: https://github.com/philippThoelke
+:img-top: https://avatars.githubusercontent.com/u/36135990?v=4
 :::
 ::::
+
+## Collaborators
+
+::::{card-carousel} 3
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.humanbrainmapping.org/
+**OHBM**
+^^^
+```{image} images/logo_ohbm.png
+:height: 100
+```
+Organisation for Human Brain Mapping
++++
+Learn more {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://unf-montreal.ca/
+**UNF**
+^^^
+```{image} images/logo_unf.png
+:height: 100
+```
+Unité de Neuroimagerie Fonctionnelle
++++
+Learn more {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://brainhack.org/
+**Brainhack**
+^^^
+```{image} images/logo_brainhack.png
+:height: 100
+```
+Learn more {fas}`arrow-right`
+:::
+::::
+
+
+## Sponsors
+
+::::{card-carousel} 3
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://adobe.com
+**Adobe**
+^^^
+```{image} images/logo_adobe.png
+:height: 100
+```
+Learn more {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.umontreal.ca/
+**Université de Montréal**
+^^^
+```{image} images/logo_udem.png
+:height: 100
+```
+Learn more {fas}`arrow-right`
+:::
+::::
+
