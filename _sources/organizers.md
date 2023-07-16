@@ -51,7 +51,7 @@ Learn more {fas}`arrow-right`
 ::::
 
 
-## Executive committee
+## Organizing team
 
 ::::{card-carousel} 5
 :::{card} Hamza Abdelhedi
