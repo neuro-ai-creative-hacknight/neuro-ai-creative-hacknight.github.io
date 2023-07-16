@@ -3,7 +3,6 @@
 ## Executive committee
 
 ::::{card-carousel} 3
-
 :::{card} Karim Jerbi
 :margin: 3
 :class-body: text-center
@@ -27,6 +26,7 @@
 :::
 ::::
 
+::::{card-carousel} 3
 :::{card} Philipp Thölke
 :margin: 3
 :class-body: text-center
@@ -38,8 +38,7 @@
 
 ## Sponsors
 
-::::{card-carousel} 2
-
+::::{card-carousel} 3
 :::{card}
 :margin: 3
 :class-body: text-center
