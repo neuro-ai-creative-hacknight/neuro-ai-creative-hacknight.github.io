@@ -2,7 +2,7 @@
 
 ## Executive committee
 
-::::{card-carousel} 4
+::::{card-carousel} 3
 :::{card} Karim Jerbi
 :margin: 3
 :class-body: text-center
