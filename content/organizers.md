@@ -2,7 +2,7 @@
 
 ## Instigators
 
-::::{card-carousel} 3
+::::{card-carousel} 2
 
 :::{card}
 :margin: 3
@@ -44,7 +44,6 @@ Learn more {fas}`arrow-right`
 ```{image} images/logo_neuromod_small.png
 :height: 100
 ```
-
 +++
 Learn more {fas}`arrow-right`
 :::
@@ -53,7 +52,7 @@ Learn more {fas}`arrow-right`
 
 ## Organizing team
 
-::::{card-carousel} 5
+::::{card-carousel} 3
 :::{card} Hamza Abdelhedi
 :margin: 3
 :class-body: text-center
@@ -80,7 +79,9 @@ GitHub profile {fas}`arrow-right`
 +++
 GitHub profile {fas}`arrow-right`
 :::
+::::
 
+::::{card-carousel} 3
 :::{card} Karim Jerbi
 :margin: 3
 :class-body: text-center
