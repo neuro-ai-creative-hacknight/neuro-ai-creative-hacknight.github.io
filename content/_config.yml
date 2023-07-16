@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: MAIN educational
-author: MAIN educational team
-logo: logo.jpg
+title: NeuroAI Creative Hackathon
+author: UNIQUE
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
