@@ -54,11 +54,11 @@ Learn more {fas}`arrow-right`
 ## Executive committee
 
 ::::{card-carousel} 5
-:::{card} Karim Jerbi
+:::{card} Hamza Abdelhedi
 :margin: 3
 :class-body: text-center
-:link: https://github.com/k-jerbi
-:img-top: https://avatars.githubusercontent.com/u/29810957?v=4
+:link: https://github.com/babasanfour
+:img-top: https://avatars.githubusercontent.com/u/46931648?v=4
 :::
 
 :::{card} Antoine Bellemare
@@ -75,18 +75,18 @@ Learn more {fas}`arrow-right`
 :img-top: https://avatars.githubusercontent.com/u/36450529?v=4
 :::
 
+:::{card} Karim Jerbi
+:margin: 3
+:class-body: text-center
+:link: https://github.com/k-jerbi
+:img-top: https://avatars.githubusercontent.com/u/29810957?v=4
+:::
+
 :::{card} Philipp Thölke
 :margin: 3
 :class-body: text-center
 :link: https://github.com/philippThoelke
 :img-top: https://avatars.githubusercontent.com/u/36135990?v=4
-:::
-
-:::{card} Hamza Abdelhedi
-:margin: 3
-:class-body: text-center
-:link: https://github.com/babasanfour
-:img-top: https://avatars.githubusercontent.com/u/46931648?v=4
 :::
 ::::
 
