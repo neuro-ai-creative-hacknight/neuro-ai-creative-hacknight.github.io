@@ -49,3 +49,5 @@ sphinx:
  extra_extensions:
    - sphinx_design
    - sphinx-rtd-dark-mode
+ config:
+    default_dark_mode: True
