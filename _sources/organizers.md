@@ -9,6 +9,7 @@
 ## Team
 
  * [Hamza Abdelhedi](https://github.com/babasanfour)
+ * [Pierre Bellec](https://github.com/pbellec)
  * [Antoine Bellemare](https://github.com/antoineBellemare)
  * [Yann Harel](https://github.com/hyruuk)
  * [Karim Jerbi](https://github.com/k-jerbi)
