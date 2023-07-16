@@ -9,7 +9,7 @@
 :class-body: text-center
 :class-header: bg-light text-center
 :link: https://www.unique.quebec
-**UNIQUE**
+**UNIQUE Center**
 ^^^
 ```{image} images/logo_unique.jpg
 :height: 100
@@ -24,7 +24,7 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :class-header: bg-light text-center
 :link: http://www.karimjerbi.com/
-**CoCoLab**
+**CoCo Lab**
 ^^^
 ```{image} images/logo_cocolab.jpg
 :height: 100
@@ -39,7 +39,7 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :class-header: bg-light text-center
 :link: https://www.cneuromod.ca/
-**Courtois-Neuromod**
+**Neuromod**
 ^^^
 ```{image} images/logo_neuromod_small.png
 :height: 100
@@ -53,7 +53,7 @@ Learn more {fas}`arrow-right`
 
 ## Executive committee
 
-::::{card-carousel} 4
+::::{card-carousel} 5
 :::{card} Karim Jerbi
 :margin: 3
 :class-body: text-center
@@ -81,26 +81,18 @@ Learn more {fas}`arrow-right`
 :link: https://github.com/philippThoelke
 :img-top: https://avatars.githubusercontent.com/u/36135990?v=4
 :::
+
+:::{card} Hamza Abdelhedi
+:margin: 3
+:class-body: text-center
+:link: https://github.com/babasanfour
+:img-top: https://avatars.githubusercontent.com/u/46931648?v=4
+:::
 ::::
 
 ## Collaborators
 
 ::::{card-carousel} 3
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://www.humanbrainmapping.org/
-**OHBM**
-^^^
-```{image} images/logo_ohbm.png
-:height: 100
-```
-Organisation for Human Brain Mapping
-+++
-Learn more {fas}`arrow-right`
-:::
-
 :::{card}
 :margin: 3
 :class-body: text-center
@@ -134,33 +126,4 @@ Learn more {fas}`arrow-right`
 
 ## Sponsors
 
-::::{card-carousel} 3
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://adobe.com
-**Adobe**
-^^^
-```{image} images/logo_adobe.png
-:height: 100
-```
-+++
-Learn more {fas}`arrow-right`
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://www.umontreal.ca/
-**Université de Montréal**
-^^^
-```{image} images/logo_udem.png
-:height: 100
-```
-+++
-Learn more {fas}`arrow-right`
-:::
-::::
-
+### TBA
