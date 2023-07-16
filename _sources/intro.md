@@ -1,6 +1,6 @@
 # Welcome
 
-![](./banner.jpeg)
+![](./banner.png)
 
 :::{note}
 **Test4.**
