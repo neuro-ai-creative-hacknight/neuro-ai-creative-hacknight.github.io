@@ -14,7 +14,7 @@
 ```{image} images/logo_unique.jpg
 :height: 100
 ```
-A neuroAI research center for Québec
+
 +++
 Learn more {fas}`arrow-right`
 :::
@@ -29,7 +29,7 @@ Learn more {fas}`arrow-right`
 ```{image} images/logo_cocolab.jpg
 :height: 100
 ```
-Cognitive and Computational Neuroscience Lab
+
 +++
 Learn more {fas}`arrow-right`
 :::
@@ -44,7 +44,7 @@ Learn more {fas}`arrow-right`
 ```{image} images/logo_neuromod_small.png
 :height: 100
 ```
-The Courtois project on Neuronal Modeling
+
 +++
 Learn more {fas}`arrow-right`
 :::
@@ -59,6 +59,8 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :link: https://github.com/babasanfour
 :img-top: https://avatars.githubusercontent.com/u/46931648?v=4
++++
+GitHub profile {fas}`arrow-right`
 :::
 
 :::{card} Antoine Bellemare
@@ -66,6 +68,8 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :link: https://github.com/antoineBellemare
 :img-top: https://avatars.githubusercontent.com/u/49297774?v=4
++++
+GitHub profile {fas}`arrow-right`
 :::
 
 :::{card} Yann Harel
@@ -73,6 +77,8 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :link: https://github.com/hyruuk
 :img-top: https://avatars.githubusercontent.com/u/36450529?v=4
++++
+GitHub profile {fas}`arrow-right`
 :::
 
 :::{card} Karim Jerbi
@@ -80,6 +86,8 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :link: https://github.com/k-jerbi
 :img-top: https://avatars.githubusercontent.com/u/29810957?v=4
++++
+GitHub profile {fas}`arrow-right`
 :::
 
 :::{card} Philipp Thölke
@@ -87,6 +95,8 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :link: https://github.com/philippThoelke
 :img-top: https://avatars.githubusercontent.com/u/36135990?v=4
++++
+GitHub profile {fas}`arrow-right`
 :::
 ::::
 
@@ -103,7 +113,6 @@ Learn more {fas}`arrow-right`
 ```{image} images/logo_unf.png
 :height: 100
 ```
-Unité de Neuroimagerie Fonctionnelle
 +++
 Learn more {fas}`arrow-right`
 :::
