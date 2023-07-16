@@ -1,12 +1,12 @@
 # Organizers
 
-## Instigators
+## Organizers
 
  * [UNIQUE Center](https://www.unique.quebec)
  * [CoCo Lab](http://www.karimjerbi.com/)
  * [Neuromod](https://www.cneuromod.ca/)
 
-## Organizing team
+## Team
 
  * [Hamza Abdelhedi](https://github.com/babasanfour)
  * [Antoine Bellemare](https://github.com/antoineBellemare)
