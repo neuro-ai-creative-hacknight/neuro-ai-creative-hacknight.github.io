@@ -3,7 +3,7 @@
 
 title: NeuroAI Creative Hackathon
 author: UNIQUE NeuroAI Center
-logo: images/logo_unique.png
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
