@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: NeuroAI Creative Hackathon
-author: UNIQUE
+author: UNIQUE NeuroAI Center
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -48,6 +48,7 @@ html:
 sphinx:
  extra_extensions:
    - sphinx_design
-   - sphinx-rtd-dark-mode
+   #- sphinx-rtd-dark-mode
  config:
     default_dark_mode: True
+    html_theme: sphinx_design
