@@ -3,3 +3,4 @@ matplotlib
 numpy
 sphinx_design
 sphinx-rtd-dark-mode
+pydata-sphinx-theme

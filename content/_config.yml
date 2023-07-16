@@ -48,6 +48,5 @@ html:
 sphinx:
  extra_extensions:
    - sphinx_design
-   - sphinx-rtd-dark-mode
  config:
-    html_theme: sphinx-rtd-dark-mode
+    html_theme: pydata_sphinx_theme
