@@ -2,3 +2,4 @@ jupyter-book
 matplotlib
 numpy
 sphinx_design
+sphinx-rtd-dark-mode
