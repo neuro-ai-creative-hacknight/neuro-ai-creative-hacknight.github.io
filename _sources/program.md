@@ -12,4 +12,5 @@
 ### Sonification
 ### Adaptive cinema (?)
 ### Latent poetry
-### Dead salmon electrophysiology
+### Live coding
+Bring your own livecoding framework or get started with [FoxDot](https://www.foxdot.org/) (Python) or [SonicPi](https://sonic-pi.net/) (Ruby). Connect your code to one of the broadcasted OSC streams, and give life to your algorithms !
