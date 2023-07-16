@@ -2,7 +2,7 @@
 
 ## Instigators
 
-::::{card-carousel} 2
+::::{card-carousel} 3
 
 :::{card}
 :margin: 3
@@ -103,7 +103,7 @@ GitHub profile {fas}`arrow-right`
 
 ## Collaborators
 
-::::{card-carousel} 3
+::::{card-carousel} 2
 :::{card}
 :margin: 3
 :class-body: text-center
