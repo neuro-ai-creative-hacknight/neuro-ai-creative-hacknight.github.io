@@ -1,4 +1,4 @@
-# Welcome to the NeuroAI Creative Hacknight
+# Welcome to the NeuroAI Creative Hacknight website
 
 ![](./banner.png)
 
