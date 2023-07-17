@@ -1,5 +1,5 @@
 # [neuro-ai-creative-hacknight.github.io](https://neuro-ai-creative-hacknight.github.io)
-This is the website of the Neuro AI Creative Hacknight, a satellite event of the OHBM2023 Montréal conference.
+This is the website of the Neuro AI Creative Hacknight, an informal satellite event organized by the Quebec Neuro-AI research Center ([UNIQUE Center](https://www.unique.quebec/)) and collaborators including [Neuromod](https://www.cneuromod.ca/). It will take place in parallel to the OHBM2023 Montreal conference on Sunday July 23rd, 2023.
 The website is built with the [jupyter book](https://jupyterbook.org/) project, and deployed using github.
 
 ### Build the book locally
