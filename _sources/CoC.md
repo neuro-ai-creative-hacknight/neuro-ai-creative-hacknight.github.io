@@ -21,7 +21,7 @@ Examples of unacceptable behavior(s) below, but are not limited to:
 
 ## Consequences
 
-The organizing team reserves the right to determine if any code of conduct has been violated. If it is determined that any code has been violated, the perpetrator be removed from the event entirely.
+The organizing team reserves the right to determine if any code of conduct has been violated. If it is determined that any code has been violated, the perpetrator will be removed from the event entirely.
 
 ## Reporting
 
