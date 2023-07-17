@@ -11,6 +11,6 @@ Come join us at the NeuroAI Creative Hacknight 2023 !
 
 Curious? find out more on the [program page](https://neuro-ai-creative-hacknight.github.io/program.html) or just sign up to attend!
 
-Registration is free and will remain open until we reach full capaity.  
+Registration is free and will remain open until we reach full capacity.  
 
 If you plan on attending, please take 20 seconds to fill in the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSemYF7N-HiEWOe0nOU9_npDHmUvSt0RxOxZCeQqnaOHFf7xfg/viewform)
