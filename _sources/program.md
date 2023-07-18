@@ -10,7 +10,7 @@
 ## Concept
 Come hack yourself within a creative echosystem where our latent spaces synchronize through biofeedback, generative AI and digital arts.  
 Our biofeedback pipeline ([goofi-pipe](http://github.com/PhilippThoelke/goofi-pipe)) allows the signal from different biosensors including EEG, ECG, PPG and others to be broadcasted on the local Wi-Fi. Connect to the network and turn your art into an adaptive experience, or start building on one of our installations in the space.  
-Embed your brain into the datastreams to gain a novel perspective on creativity, enriching your understanding of neuroscience and AI fusion.
+With these tools you can embed your brain into the datastreams to gain a novel perspective on creativity, enriching your understanding of neuroscience and AI fusion.
 
 ## Stations
 ### Mechanical poet
