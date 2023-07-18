@@ -3,26 +3,25 @@
 ## Hardware
 
 Sensors : 
- * Muse 2016 headsets (2x)
- * Muse 2 (1x)
- * Neurosity Crown (1x)
+ * Several mobile EEG headsets (Muse, Neurosity, Wearable Sensing)
  * 2 PPG sensors
  * A bunch of plant sensors
+ * ECG/EMG sensors
  * 1 leap motion
 
 Emittors :
- * Video projectors (2x)
+ * 2 Video projectors
  * 1 Sonos mobile speaker
  * 2 Krk5 speakers
  * 1 Scarlett 2i2 soundcard
  * 1 Clarett 4-pre soundcard
 
 Calculators :
- * Arduino (2x)
- * HP Mini PC (1x)
+ * 2 Arduino
+ * 1 HP Mini PC
 
 Controllors :
- * MIDI Keyboards (2x)
+ * 2 MIDI Keyboards
  * A set of MIDI controller
 
 
