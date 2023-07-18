@@ -1,9 +1,9 @@
 # Program
 
 ## Schedule
-16:00 EST - 17:00 EST **Arrival and registration**, meetup, onboarding
+**Doors open** at 16:00 EST
 
-17:00 EST - late o'clock EST **Hacking**
+17:00 EST - late o'clock EST **Hacking and exploration**
 
 20:00 EST - 02:00 EST **Party and drinks**
 
