@@ -1,7 +1,5 @@
 # Venue
 
-All presentations will be streamed on the [crowdcast](https://www.crowdcast.io/) platform and interactions with the MAIN educational team will happen on [discord](https://discord.com/). An invitation to the crowdcast and discord servers will be shared with participants registered on eventbrite.
+The event will be located in Saint-Henri, close to the metro station. The adress is 257 Rue Saint-Ferdinand, Montreal, QC H4C 2S6.
 
-The workshop will be located at the amphitheatre le Groupe Maurice, [Centre de Recherche de l'Institut Universitaire de Gériatrie de Montréal](https://criugm.qc.ca/nous-joindre/), 4545, Chemin Queen-Mary Montréal.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11187.585588316057!2d-73.624961!3d45.492031!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7ac2b0b31c3101d1!2sResearch%20Center%20De%20L&#39;iugm!5e0!3m2!1sen!2sca!4v1637620566995!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d546.0977691282087!2d-73.58362042812692!3d45.475574678919266!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9109cea6e1ea5%3A0x1befadf0ea5ba9b4!2s257%20Rue%20Saint-Ferdinand%2C%20Montreal%2C%20QC%20H4C%202S6!5e0!3m2!1sfr!2sca!4v1689552740138!5m2!1sfr!2sca" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
