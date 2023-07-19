@@ -9,6 +9,8 @@ Come join us at the NeuroAI Creative Hacknight 2023 !
 
 **What:** Join us for an electrifying journey where brainwaves, cutting-edge generative AI, and your sensory perception form an exciting integrative functional network! :-) The event will provide spaces for hacking and geeking around with brain signals, as well as opportunities to experience brain-art installations and live performances, including eeg-inspired live music and DJ/VJ sets. Come immerse yourself in the unique interplay of live-generated poetry, music, and visuals, taking inspiration from your brain state, and maybe some other lifeforms ;)
 
+**Everyone** is welcome to join and have fun, whether you’d like to get involved with the hacking or just experience the installations, enjoy the music and make new friends ! **Drinks** and **snacks** will be available on site.
+
 Curious? find out more on the [program page](https://neuro-ai-creative-hacknight.github.io/program.html) or just sign up to attend!
 
 Registration is free and will remain open until we reach full capacity.  
