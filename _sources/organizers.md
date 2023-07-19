@@ -1,7 +1,7 @@
 # Organizers
 
 
-The NeuroAI Creative Hacknight 2023 is organized by the Quebec Neuro-AI research center ([UNIQUE Center](https://www.unique.quebec)) in collaboration with the Cognitive and Computational Neuroscience Lab ([CoCo Lab](http://www.karimjerbi.com/)), the Courtois Neuromod project ([Neuromod](https://www.cneuromod.ca/)), the Functional Neuroimaging Unit ([UNF](https://unf-montreal.ca/)) and [Brainhack](https://brainhack.org/)
+The NeuroAI Creative Hacknight 2023 is organized by the Quebec Neuro-AI research center ([UNIQUE Center](https://www.unique.quebec)) in collaboration with the Cognitive and Computational Neuroscience Lab ([CoCo Lab](http://www.karimjerbi.com/)), the Courtois Neuromod project ([Neuromod](https://www.cneuromod.ca/)) and the Functional Neuroimaging Unit ([UNF](https://unf-montreal.ca/)).
 
 ## Team
 
