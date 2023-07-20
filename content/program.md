@@ -32,6 +32,6 @@ We derive features from your EEG signal to attribute a set of style modifiers to
 Bring your own livecoding framework or get started with [FoxDot](https://www.foxdot.org/) (Python) or [SonicPi](https://sonic-pi.net/) (Ruby). Connect your code to one of the broadcasted OSC streams, and infuse life into your algorithms ! You can find a few bits of code [here](https://github.com/hyruuk/foxdot_play) to get started with receiving OSC in FoxDot.
 
 ### The 5th station
-[ ] TODO
+Your own project ?
 
   

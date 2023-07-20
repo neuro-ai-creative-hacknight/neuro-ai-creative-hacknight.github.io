@@ -10,4 +10,5 @@ The NeuroAI Creative Hacknight 2023 is organized by the Quebec Neuro-AI research
  * [Antoine Bellemare](https://github.com/antoineBellemare)
  * [Yann Harel](https://github.com/hyruuk)
  * [Karim Jerbi](http://www.karimjerbi.com/)
+ * [Venkatesh Subramani](https://github.com/venkateshness)
  * [Philipp Thölke](https://github.com/philippThoelke)
