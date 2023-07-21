@@ -9,7 +9,7 @@
 
 21:00 EST - 21:40 EST **In Outself (live brain-music performance)**
 
-21:40 EST - 02:00 EST **DJ/VJ sets (Mat Moebius, BouBou, Xanarelle)
+21:40 EST - 02:00 EST **DJ/VJ sets (Mat Moebius, BouBou, Xanarelle)**
 
 ## Concept
 Come hack yourself within a creative echosystem where our latent spaces synchronize through biofeedback, generative AI and digital arts.  
