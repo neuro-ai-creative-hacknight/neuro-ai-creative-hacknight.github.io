@@ -64,3 +64,9 @@ if __name__ == "__main__":
     print(f"Serving on {server.server_address}")
     server.serve_forever()
 ```
+
+### TouchDesigner
+Simply add the "[OSC In](https://derivative.ca/UserGuide/OSC_In_CHOP)" CHOP and select the desired port in the parameter section.
+
+### Max4Live/Ableton
+Check out the [MEME](https://github.com/AntoineBellemare/eeg_m4l) toolbox for handling OSC signals in Max4Live and Ableton.
