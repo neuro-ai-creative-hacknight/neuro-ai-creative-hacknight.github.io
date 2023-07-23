@@ -3,11 +3,13 @@
 ## Schedule
 **Doors open** at 16:00 EST
 
-17:00 EST - late o'clock EST **Hacking and exploration**
+16:00 EST - late o'clock EST **Hacking and exploration**
 
 20:00 EST - 21:00 EST **Electro-organic open jam**
 
 21:00 EST - 21:40 EST **In Outself (live brain-music performance)**
+
+21:40 EST - 22:00 EST **The Dead Salmon & the True Negatives (live dead salmon performance)**
 
 21:40 EST - 02:00 EST **DJ/VJ sets (Mat Moebius, BouBou, Xanarelle)**
 
