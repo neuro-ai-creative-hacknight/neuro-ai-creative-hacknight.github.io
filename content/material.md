@@ -31,3 +31,42 @@ Controllors :
  * [goofi-pipe](https://github.com/PhilippThoelke/goofi-pipe) : A neuro-/biofeedback toolbox written in Python.
  * [Modular EEG Mapping Echosystem (MEME)](https://github.com/AntoineBellemare/eeg_m4l) : A Max4Live set of tools to receive OSC from biological signals in Ableton. Get an overview [here](https://www.youtube.com/watch?v=dn5BoCZzo7U).
  * [biotuner](https://github.com/antoineBellemare/biotuner) : A Python package to compute music theory based metrics on biological signals. Documentation is hosted [here](https://sangfrois.github.io/biotuner).
+
+
+
+## Connect to a data-stream
+We are streaming data from several devices in the local WiFi via OSC. Check out the list of OSC ports to find the specific device you want to connect to.
+
+### Receiving OSC in Python
+This little script connects to the OSC broadcast and simply prints out all incoming messages for a specific port.
+```python
+"""A simple OSC client that prints messages received from an OSC server."""
+import argparse
+from pythonosc import dispatcher
+from pythonosc import osc_server
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--ip", default="127.0.0.1")
+parser.add_argument("--port", type=int, default=5005)
+
+
+def handler(address, *args):
+    print(f"{address}: {args}")
+
+
+if __name__ == "__main__":
+    args = parser.parse_args()
+    address = args.ip
+    port = args.port
+    dispatcher = dispatcher.Dispatcher()
+    dispatcher.map("/*", handler)
+    server = osc_server.ThreadingOSCUDPServer((address, port), dispatcher)
+    print(f"Serving on {server.server_address}")
+    server.serve_forever()
+```
+
+### TouchDesigner
+Simply add the "[OSC In](https://derivative.ca/UserGuide/OSC_In_CHOP)" CHOP and select the desired port in the parameter section.
+
+### Max4Live/Ableton
+Check out the [MEME](https://github.com/AntoineBellemare/eeg_m4l) toolbox for handling OSC signals in Max4Live and Ableton.
